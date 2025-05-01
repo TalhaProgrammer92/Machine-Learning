@@ -113,3 +113,4 @@ These learn through **interaction with the environment** using rewards and penal
 
 ---
 
+![ML Algo Diagram](images/ml-algo-diagram.png)
