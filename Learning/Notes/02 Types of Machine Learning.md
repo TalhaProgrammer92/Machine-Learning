@@ -112,3 +112,5 @@ These learn through **interaction with the environment** using rewards and penal
 - **Advantage Actor-Critic (A2C, A3C)**
 
 ---
+
+![ML Algo Diagram](images/ml-algo-diagram.png)
