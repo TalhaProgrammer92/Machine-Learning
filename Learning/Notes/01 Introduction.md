@@ -61,3 +61,9 @@ Here's a brief overview of different branches of data and AI (Artificial Intelli
 ![Branches](images/branches-fractal-diagram.png)
 
 - - -
+
+## Artificial Intelligence vs Machine Learning vs Deep Learning vs Data Science
+
+![AI-ML-DL-DS](images/ai-ml-dl-ds.png)
+
+- - -
