@@ -44,9 +44,7 @@ There are *four main types of machine learning*, each with different learning st
 
 ---
 
-## Common Algorithms used in different Types of Machine Learning
-
-Great! Here's a breakdown of **common algorithms** used in each type of Machine Learning (ML):
+## Algorithms used in different Types of Machine Learning
 
 ---
 
