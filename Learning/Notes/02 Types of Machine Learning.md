@@ -41,3 +41,76 @@ There are *four main types of machine learning*, each with different learning st
 ---
 
 ![ML Types](images/ml-types.png)
+
+---
+
+## Common Algorithms used in different Types of Machine Learning
+
+Great! Here's a breakdown of **common algorithms** used in each type of Machine Learning (ML):
+
+---
+
+### **1. Supervised Learning Algorithms**
+These algorithms require **labeled data** to learn a mapping from inputs to outputs.
+
+#### 🔹 Regression (for continuous output):
+- **Linear Regression**
+- **Ridge/Lasso Regression**
+- **Support Vector Regression (SVR)**
+
+#### 🔹 Classification (for categorical output):
+- **Logistic Regression**
+- **K-Nearest Neighbors (KNN)**
+- **Decision Trees**
+- **Random Forest**
+- **Support Vector Machines (SVM)**
+- **Naive Bayes**
+- **Gradient Boosting (e.g., XGBoost, LightGBM)**
+
+---
+
+### **2. Unsupervised Learning Algorithms**
+These algorithms work with **unlabeled data**, finding structure or patterns on their own.
+
+#### 🔹 Clustering:
+- **K-Means**
+- **Hierarchical Clustering**
+- **DBSCAN**
+
+#### 🔹 Dimensionality Reduction:
+- **Principal Component Analysis (PCA)**
+- **t-SNE**
+- **Autoencoders (also used in deep learning)**
+
+#### 🔹 Association Rules:
+- **Apriori Algorithm**
+- **Eclat Algorithm**
+
+---
+
+### **3. Semi-Supervised Learning Algorithms**
+These use a **small labeled dataset + a large unlabeled one**, often combining unsupervised and supervised techniques.
+
+- **Self-training with supervised classifiers** (e.g., using a model like SVM or Decision Tree to label unlabeled data iteratively)
+- **Label Propagation / Label Spreading**
+- **Semi-Supervised Generative Models**
+- **Graph-based models** (e.g., Graph Convolutional Networks in deep learning)
+
+---
+
+### **4. Reinforcement Learning Algorithms**
+These learn through **interaction with the environment** using rewards and penalties.
+
+#### 🔹 Value-Based Methods:
+- **Q-Learning**
+- **Deep Q-Networks (DQN)**
+
+#### 🔹 Policy-Based Methods:
+- **REINFORCE Algorithm**
+- **Proximal Policy Optimization (PPO)**
+- **Trust Region Policy Optimization (TRPO)**
+
+#### 🔹 Actor-Critic Methods:
+- **Advantage Actor-Critic (A2C, A3C)**
+
+---
