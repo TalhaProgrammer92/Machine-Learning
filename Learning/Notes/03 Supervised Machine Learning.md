@@ -73,5 +73,3 @@ Supervised learning is a type of machine learning where the model is trained on 
 - May not generalize well if overfitting occurs
 
 ---
-
-Would you like a visual summary or diagram of supervised learning too?
