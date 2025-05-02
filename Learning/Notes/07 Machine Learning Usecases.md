@@ -58,3 +58,5 @@ Here's a clear breakdown of **real-life use-cases of different types of machine 
 | **Dynamic Pricing**   | Set optimal prices based on demand          | Multi-armed Bandit models         |
 
 ---
+
+![ML Use-cases](images/ml-usecases.png)
